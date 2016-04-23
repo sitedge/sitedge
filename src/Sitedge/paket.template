@@ -1,0 +1,25 @@
+type project
+title
+    Sitedge
+owners
+    sitedge
+authors 
+    sitedge
+projectUrl
+    http://github.com/sitedge/Sitedge
+iconUrl
+    https://raw.githubusercontent.com/sitedge/Sitedge/master/docs/files/img/logo.png
+licenseUrl
+    http://github.com/sitedge/Sitedge/blob/master/LICENSE.txt
+requireLicenseAcceptance
+    false
+copyright
+    Copyright 2015
+tags
+    
+summary
+    
+description
+    Description not set
+
+
